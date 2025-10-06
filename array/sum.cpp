@@ -17,5 +17,6 @@ int main()
         sum += arr[i];
     }
     cout<<"sum of element"<<sum<<endl;
+    
     return 0;
 }

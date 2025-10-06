@@ -4,7 +4,9 @@
 using namespace std;
 int main()
 {
-    string str = "ankurkushwaha";
+    string str;
+    cout<<"enter the string";
+    cin>>str;
     reverse(str.begin(),str.end());
     cout<<str<<endl;
     return 0;
